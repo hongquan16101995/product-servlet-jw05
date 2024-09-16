@@ -9,8 +9,6 @@
     <body>
         <h1>Form create product</h1>
         <form action="/product/products?action=createPost" method="post">
-            <label for="id">Id</label>
-            <input type="text" id="id" name="id">
             <label for="name">Name</label>
             <input type="text" id="id" name="name">
             <label for="price">Price</label>

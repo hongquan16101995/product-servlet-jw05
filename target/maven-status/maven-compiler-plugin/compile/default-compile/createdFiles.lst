@@ -1,4 +1,5 @@
 com\example\model\Product.class
+com\example\DAO\MyConnection.class
 com\example\service\ProductService.class
 com\example\DAO\ProductDAO.class
 com\example\servlet\ProductServlet.class
